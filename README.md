@@ -3,4 +3,3 @@ A Unity Game Prototype where players control a bouncing ball across moving platf
 
 Created more platforms
 Continued to work on the camera follow script, camera stays a set distance above ground, instead of following the ball along the y direction
-
